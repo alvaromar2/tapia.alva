@@ -1,0 +1,33 @@
+.hipervinculos{
+    border-radius: 5px;
+    border-style: solid;
+    text-align: center;
+}
+.contenedorpadre{
+    background-color: bisque;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: black;
+    margin: 10px;
+    padding: 10px;
+    position: relative;
+}
+.contenedorhijo1{
+    border-radius: 5px ;
+    border-style: solid;
+    margin-right: 900px;
+}
+.subcontenedorgrande{
+    border-radius: 5px ;
+    border-style: solid;
+    margin-right: 900px;
+}
+.subcontenedorchico{
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid;
+    position: absolute;
+    background-color: gray;
+    top: 40%;
+    left: 60%;
+}
